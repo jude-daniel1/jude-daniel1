@@ -1,22 +1,20 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4E16AQEoEApXjXqWow/profile-displaybackgroundimage-shrink_350_1400/0/1659320548857?e=1681948800&v=beta&t=h1RTccl4GiLcG_sJH-7De4DNAqCDeyVgem-dOsrvih4)]
-
 <h1 align="center">Hi 👋, I'm Daniel Jude C.</h1>
 <h3 align="center">A passionate web/mobile developer and a machine learning enthusiast</h3>
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jude-daniel1&label=Profile%20views&color=0e75b6&style=flat" alt="jude-daniel1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jude-daniel1" alt="jude-daniel1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/judedaniel" target="blank"><img src="https://img.shields.io/twitter/follow/judedaniel?logo=twitter&style=for-the-badge" alt="judedaniel" /></a> </p>
 
+- 🌱 I’m currently learning **Machine Learning**
+
 - 👯 I’m looking to collaborate on **any machine learning research**
 
-- 💬 Ask me about **MEAN,Flutter, Dart, Javascript, HTML5, CSS3,Python, Django, Machine Learning**
+- 💬 Ask me about **MEAN,Flutter, Dart, Python**
 
 - 📫 How to reach me **judedaniel9@gmail.com**
+
+- ⚡ Fun fact **Funny,pationat, friendly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
